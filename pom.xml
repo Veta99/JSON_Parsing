@@ -54,7 +54,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.JSON_Parsing</mainClass>
+							<mainClass>core.JSON</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
